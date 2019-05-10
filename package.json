@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "homepage": "https://github.com/Sunny-zz/vue-production.git",
+  "homepage": "https://git.dev.tencent.com/sunny-zz/vue-production",
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.6"
